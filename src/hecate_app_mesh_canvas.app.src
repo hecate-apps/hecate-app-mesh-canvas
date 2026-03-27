@@ -1,0 +1,8 @@
+{application, hecate_app_mesh_canvas, [
+    {description, "Hecate mesh demo app"},
+    {vsn, "0.1.0"},
+    {registered, []},
+    {applications, [kernel, stdlib, macula]},
+    {env, []},
+    {modules, []}
+]}.
